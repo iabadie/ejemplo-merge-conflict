@@ -1,5 +1,14 @@
+**General**
 Nombre="Pepe"
 Nivel=1
+
+**Atributos**
+Mana=100
 Vida=100
-Fuerza=100
+
 Destreza=100
+Fuerza=100
+
+Agilidad=100
+
+
