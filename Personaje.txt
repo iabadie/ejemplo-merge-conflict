@@ -1,0 +1,5 @@
+Nombre="Pepe"
+Nivel=1
+Vida=100
+Fuerza=100
+Destreza=100
