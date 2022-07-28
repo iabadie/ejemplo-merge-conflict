@@ -10,5 +10,3 @@ Destreza=10
 Fuerza=10
 
 Agilidad=100
-
-
