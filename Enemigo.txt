@@ -1,7 +1,7 @@
 **General**
 
-Nombre="Pepe"
-Nivel=5
+Nombre="Enemigo1"
+Nivel=1
 
 **Atributos**
 
